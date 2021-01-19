@@ -1,0 +1,7 @@
+{
+  "name": "powder-dash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
